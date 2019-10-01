@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ravindra</groupId>
-	<artifactId>okhttp-app-two</artifactId>
+	<artifactId>okhttp-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>okhttp-client</name>
 	<description>Demo project for Spring Boot</description>
